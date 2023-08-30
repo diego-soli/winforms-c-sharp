@@ -1,0 +1,9 @@
+C:\Users\Diego\Documents\_projetos\_Teste\AppTesteClientes\AppTesteClientesDTO\obj\Debug\AppTesteClientesDTO.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\_projetos\_Teste\AppTesteClientes\AppTesteClientesDTO\obj\Debug\AppTesteClientesDTO.Properties.Resources.resources
+C:\Users\Diego\Documents\_projetos\_Teste\AppTesteClientes\AppTesteClientesDTO\obj\Debug\AppTesteClientesDTO.csproj.GenerateResource.cache
+C:\Users\Diego\Documents\_projetos\_Teste\AppTesteClientes\AppTesteClientesDTO\obj\Debug\AppTesteClientesDTO.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\_projetos\_Teste\AppTesteClientes\AppTesteClientesDTO\bin\Debug\AppTesteClientesDTO.exe.config
+C:\Users\Diego\Documents\_projetos\_Teste\AppTesteClientes\AppTesteClientesDTO\bin\Debug\AppTesteClientesDTO.exe
+C:\Users\Diego\Documents\_projetos\_Teste\AppTesteClientes\AppTesteClientesDTO\bin\Debug\AppTesteClientesDTO.pdb
+C:\Users\Diego\Documents\_projetos\_Teste\AppTesteClientes\AppTesteClientesDTO\obj\Debug\AppTesteClientesDTO.exe
+C:\Users\Diego\Documents\_projetos\_Teste\AppTesteClientes\AppTesteClientesDTO\obj\Debug\AppTesteClientesDTO.pdb
